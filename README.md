@@ -1,2 +1,2 @@
-# Progetto ING.Software
-Progetto Ing.Soft 2023
+# Exe ING.Software
+Exe Ing.Soft 2023
