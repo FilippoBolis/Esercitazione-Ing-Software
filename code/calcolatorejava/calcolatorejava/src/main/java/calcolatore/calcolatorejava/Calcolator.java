@@ -9,6 +9,11 @@ public class Calcolator {
 //Qui MazzoPazzo metti la somma 
 
 //Qui IngegnerGotti metta pure la differenza
+
+//Qui metto la moltipicazione
+	public int moltiplicazione(int a, int b){
+		return a*b;
+	}
 	
 	
 }
