@@ -1,7 +1,7 @@
 package calcolatore.calcolatorejava;
 
 public class Calcolator {
-	public Calculator(){
+	public Calcolator(){
 	}
 
 //Qui MazzoPazzo metti la somma 
@@ -10,6 +10,10 @@ public class Calcolator {
 		return s;
 	}
 //Qui IngegnerGotti metta pure la differenza
+	public int diff(int a, int b) {
+		int d=a-b;
+		return d;
+	}
 
 //Qui metto la moltipicazione
 	public int moltiplicazione(int a, int b){
